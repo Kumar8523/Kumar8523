@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nabo Kumar</h1>
+<div align="center">
+  <img  src="[https://github.com/Kumar8523/Kumar8523/blob/main/github-pic-four.png](https://github.com/Kumar8523/Kumar8523/blob/main/github-pic-four.png)"  />
+</div>
+
 <h3 align="center">I'm a frontend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar8523&label=Profile%20views&color=0e75b6&style=flat" alt="kumar8523" /> </p>
