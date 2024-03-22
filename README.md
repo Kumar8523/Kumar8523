@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabo Kumar</h1>
-<div align="center">
-  <img  src="[https://github.com/Kumar8523/Kumar8523/blob/main/github-pic-four.png](https://github.com/Kumar8523/Kumar8523/blob/main/github-pic-four.png)"  />
-</div>
+  <img align="center" src="[https://github.com/Kumar8523/Kumar8523/blob/main/github-pic-four.png](https://github.com/Kumar8523/Kumar8523/blob/main/github-pic-four.png)"  />
 
 <h3 align="center">I'm a frontend developer.</h3>
 
